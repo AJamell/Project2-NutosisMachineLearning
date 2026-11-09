@@ -2,3 +2,5 @@
 *.csv
 *.txt
 *.json
+!train_set.parquet
+!test_set.parquet
